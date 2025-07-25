@@ -26,7 +26,7 @@ I'm a technology professional from Nepal with a strong background in **DevOps**,
 
 - 🔐 **Cybersecurity Risk Register** for Cloud Service Providers & Payment Service Providers
 - ⚙️ **Custom Billing API** for academic use (Node.js/Express)
-- 🌐 **Portfolio Website**: [sujanguragain.github.io](https://sujanguragain.github.io)
+- 🌐 **Portfolio Website**: sujanguragain.com.np 
 - 🧠 **CyberSmart Nepal** (Upcoming): A grassroots cybersecurity awareness platform for students, teachers & SMEs
 
 ---
@@ -44,9 +44,9 @@ I'm a technology professional from Nepal with a strong background in **DevOps**,
 
 If you're into DevOps pipelines, cybersecurity projects, or looking to collaborate on tech initiatives, reach out to me!
 
-- 🌐 [LinkedIn](https://linkedin.com/in/sujanguragain) *(replace with actual link if needed)*
+- 🌐 [LinkedIn](https://linkedin.com/in/sujanguragain)
 - 📧 Email: guragain.sujan11@gmail.com
 
 ---
 
-> “Build with automation. Secure with intention.”
+**“Build with automation. Secure with intention.”**
