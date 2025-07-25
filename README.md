@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujan Guragain
 
-🚀 DevOps Engineer | Cybersecurity Enthusiast | M.Sc. IT & Cybersecurity Student at Islington College | Tech Builder from Nepal 🇳🇵
+🚀DevOps Engineer | Cybersecurity Enthusiast | M.Sc. IT & Cybersecurity Student at Islington College | Tech Builder from Nepal 🇳🇵
 
 ---
 
@@ -26,7 +26,7 @@ I'm a technology professional from Nepal with a strong background in **DevOps**,
 
 - 🔐 **Cybersecurity Risk Register** for Cloud Service Providers & Payment Service Providers
 - ⚙️ **Custom Billing API** for academic use (Node.js/Express)
-- 🌐 **Portfolio Website**: sujanguragain.com.np 
+- 🌐 **Portfolio Website**: [sujanguragain.com.np ](https://sujanguragain.com.np/)
 - 🧠 **CyberSmart Nepal** (Upcoming): A grassroots cybersecurity awareness platform for students, teachers & SMEs
 
 ---
