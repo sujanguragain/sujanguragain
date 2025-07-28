@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sujan Guragain
 
-🚀DevOps Engineer | Cybersecurity Enthusiast | M.Sc. IT & Cybersecurity Student at Islington College | Tech Builder from Nepal 🇳🇵
+🚀DevOps Engineer | Cybersecurity Enthusiast | M.Sc. IT & Cybersecurity Student at London Metropolitan | Tech Builder from Nepal 🇳🇵
 
 ---
 
